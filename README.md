@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @EsragulYildiz
-- Mersin Üniversitesi
+- Mersin University
 - Computer Engineering Student
